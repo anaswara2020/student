@@ -74,7 +74,7 @@ export default function Home() {
             >
               <div className="home-image-ring">
                 <img
-                  src="../public/assets/aaa.jpeg"
+                  src="assets/aaa.jpeg"
                   alt="Profile"
                   className="home-avatar"
                 />
